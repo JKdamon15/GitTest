@@ -8,7 +8,7 @@ package test.showtime;
 public class Commited_white {
     public String name;
     private int id;
-
+// 添加带参构造方法from GitTest_dev
     public Commited_white(String name) {
         this.name = name;
     }
