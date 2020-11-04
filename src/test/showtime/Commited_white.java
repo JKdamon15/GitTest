@@ -13,6 +13,7 @@ public class Commited_white {
         this.name = name;
     }
 //设置get和set方法-fromGitTest
+//  设置get和set方法 from-GitTestClone2
     public String getName() {
         return name;
     }
