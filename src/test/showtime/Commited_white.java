@@ -12,7 +12,7 @@ public class Commited_white {
     public Commited_white(String name) {
         this.name = name;
     }
-
+//设置get和set方法-fromGitTest
     public String getName() {
         return name;
     }
